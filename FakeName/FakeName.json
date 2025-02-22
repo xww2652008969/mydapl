@@ -1,0 +1,22 @@
+{
+  "Author": "msew11  Xwww",
+  "Name": "FakeName",
+  "InternalName": "FakeName",
+  "AssemblyVersion": "1.7.1.0",
+  "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xww2652008969/FakeName",
+  "Tags": [
+    "name",
+    "ui"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 128,
+  "IconUrl": "https://raw.githubusercontent.com/xww2652008969/FakeName/master/icon.png",
+  "Punchline": "修改游戏界面中出现的角色名。(还没测，好多报错乱修一通，可能会崩!!!)",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}
