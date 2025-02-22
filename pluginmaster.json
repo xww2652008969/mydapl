@@ -6,6 +6,7 @@
     "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
     "InternalName": "FakeName",
     "ApplicableVersion": "any",
+    "AssemblyVersion":"1.7.1.0",
     "repoUrl": "https://github.com/xww2652008969/FakeName",
     "IconUrl": "https://raw.githubusercontent.com/xww2652008969/FakeName/master/icon.png",
     "Changelog": "",
