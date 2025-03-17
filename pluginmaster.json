@@ -17,5 +17,22 @@
     "LoadPriority": 128,
     "DalamudApiLevel": 11,
     "DownloadLinkInstall":"https://raw.githubusercontent.com/xww2652008969/mydapl/master/FakeName/latest.zip"
-}
+},
+{
+    "Author": "wtool",
+    "Name": "xww,HMMT",
+    "InternalName": "wtool",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "挂.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadPriority": 0,
+    "Punchline": "我就要开挂",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/xww2652008969/mydapl/master/wtool/latest.zip"
+  }
 ]
