@@ -1,38 +1,39 @@
 [
-{
+  {
     "Author": "msew11  Xwww",
     "Name": "FakeName",
     "Punchline": "修改游戏界面中出现的角色名。(还没测，好多报错乱修一通，可能会崩!!!)",
     "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
     "InternalName": "FakeName",
     "ApplicableVersion": "any",
-    "AssemblyVersion":"1.7.1.0",
+    "AssemblyVersion": "1.7.1.0",
     "repoUrl": "https://github.com/xww2652008969/FakeName",
     "IconUrl": "https://raw.githubusercontent.com/xww2652008969/FakeName/master/icon.png",
     "Changelog": "",
     "Tags": [
-        "name",
-        "ui"
+      "name",
+      "ui"
     ],
     "LoadPriority": 128,
     "DalamudApiLevel": 11,
-    "DownloadLinkInstall":"https://raw.githubusercontent.com/xww2652008969/mydapl/master/FakeName/latest.zip"
-},
-{
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xww2652008969/mydapl/master/FakeName/latest.zip"
+  },
+  {
     "Author": "xww,HMMT",
     "Name": "wtool",
-    "InternalName": "wtool",
-    "AssemblyVersion": "1.0.2.0",
+    "Punchline": "我就要开挂",
     "Description": "挂.",
+    "InternalName": "wtool",
     "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.3.0",
+    "repoUrl": "",
+    "IconUrl": "",
+    "Changelog": "",
     "Tags": [
       "plugin"
     ],
-    "DalamudApiLevel": 11,
-    "LoadRequiredState": 0,
     "LoadPriority": 0,
-    "Punchline": "我就要开挂",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall":"https://raw.githubusercontent.com/xww2652008969/mydapl/master/wtool/latest.zip"
+    "DalamudApiLevel": 11,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xww2652008969/mydapl/master/wtool/latest.zip"
   }
 ]
