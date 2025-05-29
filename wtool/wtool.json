@@ -2,7 +2,7 @@
   "Author": "xwww,HMMT",
   "Name": "wtool",
   "InternalName": "wtool",
-  "AssemblyVersion": "1.0.5.0",
+  "AssemblyVersion": "1.0.6.0",
   "Description": "挂.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -15,6 +15,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/xww2652008969/mydapl/refs/heads/master/wtool/ico.png",
   "Punchline": "挂",
   "AcceptsFeedback": true
 }
