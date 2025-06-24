@@ -25,7 +25,7 @@
     "Description": "挂.",
     "InternalName": "wtool",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "repoUrl": "",
     "IconUrl": "",
     "Changelog": "",
@@ -33,7 +33,7 @@
       "plugin"
     ],
     "LoadPriority": 0,
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/xww2652008969/mydapl/master/wtool/latest.zip"
   }
 ]

@@ -2,7 +2,7 @@
   "Author": "xwww,HMMT",
   "Name": "wtool",
   "InternalName": "wtool",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.2.0",
   "Description": "挂.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "goats"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
